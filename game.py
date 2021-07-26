@@ -25,7 +25,7 @@ results = {
     }
 }
 
-try: 
+try:
     Winner = results[cp_choice][choice]
     print('Computer choose {}'.format(cp_choice))
     print(Winner)
